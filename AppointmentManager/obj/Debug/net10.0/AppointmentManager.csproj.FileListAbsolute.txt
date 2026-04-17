@@ -1,0 +1,14 @@
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\AppointmentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\AppointmentManager.AssemblyInfoInputs.cache
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\AppointmentManager.AssemblyInfo.cs
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\AppointmentManager.csproj.CoreCompileInputs.cache
+C:\C#\Ch02\AppointmentManager\bin\Debug\net10.0\AppointmentManager.exe
+C:\C#\Ch02\AppointmentManager\bin\Debug\net10.0\AppointmentManager.deps.json
+C:\C#\Ch02\AppointmentManager\bin\Debug\net10.0\AppointmentManager.runtimeconfig.json
+C:\C#\Ch02\AppointmentManager\bin\Debug\net10.0\AppointmentManager.dll
+C:\C#\Ch02\AppointmentManager\bin\Debug\net10.0\AppointmentManager.pdb
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\AppointmentManager.dll
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\refint\AppointmentManager.dll
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\AppointmentManager.pdb
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\AppointmentManager.genruntimeconfig.cache
+C:\C#\Ch02\AppointmentManager\obj\Debug\net10.0\ref\AppointmentManager.dll
